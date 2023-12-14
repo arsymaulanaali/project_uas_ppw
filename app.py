@@ -53,7 +53,7 @@ def create_topic_proportion_df(X_summary, k, alpha, beta):
 # proses klasifikasi
 st.write("""
     ### Want to learn more?
-    - Dataset (studi kasus) [kompas.com](https://www.suara.com/)
+    - Dataset (studi kasus) [suara.com](https://www.suara.com/)
     - Github Account [github.com](https://github.com/arsymaulanaali/ppw)
     """)
 data_final_sm = pd.read_csv('data_final_sm_suara.csv')
